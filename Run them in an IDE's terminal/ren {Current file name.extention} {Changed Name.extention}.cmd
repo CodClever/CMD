@@ -1,0 +1,1 @@
+ren {Current file name.extention} {Changed Name.extention}

@@ -1,0 +1,1 @@
+curl checkip.example.com

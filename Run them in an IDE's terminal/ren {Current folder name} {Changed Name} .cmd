@@ -1,0 +1,1 @@
+ren {Current folder name} {Changed Name} 

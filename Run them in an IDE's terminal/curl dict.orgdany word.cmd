@@ -1,0 +1,1 @@
+curl dict.org/d:any word
