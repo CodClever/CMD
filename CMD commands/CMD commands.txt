@@ -1,0 +1,144 @@
+subst s: "Any file location"
+Fix- subst d/ s: "Any file location"                 - Create a location as disk
+
+
+telnet telehack.com                                  - Videos on cmd, etc
+
+
+cipher /E                                            - Lock all items
+
+
+attrib +h +s +r foldername
+Fix- attrib -h -s -r foldername                      - Hide
+
+
+netsh wlan show profile                              - Displays all known wifi
+
+
+netsh wlan show profile "SSID" key=clear             - Displays the know wifi's            
+                                                       details including password
+                                                      
+
+systeminfo                                           - Displays all system info
+
+
+color 07                                             - Changes color
+
+
+prompt {stuff}                                       - Changes prompt
+
+
+title {stuff}                                        - Changes title
+
+
+curl wttr.in/location                                - Displays location
+
+
+curl checkip.example.com                             - Displays ip of website 
+
+
+curl qrenco.de/example.com                           - Can make a qr code for the
+                                                       website
+
+
+curl dict.org/d:any word                             - A CMD dictionary 
+
+
+start example.com                                    - Opens the website
+
+
+doskey /history                                      - Displays history
+
+
+steghide embed -ef example.txt -cf 
+~/Downloads/example.jpg
+Unlock- steghide extract -sf ~/Downloads/example.    - Hides a file into a picture
+jpg {in end of unlock command "xf" is put for
+programs}
+
+
+arp -a                                               - Displays all Local IP addresses connected to your network
+
+
+shutdown -i                                          - Opens Remote Shutdown Dialog
+
+
+msg{For Message} *{To send to all computers          - Sends your message to every computer connected to your
+connected} (Your Message)                              network. {Only works in Pro Version of Microsoft Windows}
+
+
+del /q /f /s %temp%                                  - Deletes your temporary files folder
+
+
+reg save reg/location ./location                     - Saves desired regestiry key in the desired location
+
+
+format/q/x {Letterassigned to the USB}               - Formats pendrive
+
+
+{command 1} %% {command 2}                           - Runs multiples of command together
+
+
+powercfg/batteryreport                               - Displays device battery health
+
+
+cd {Choosen Directory}                               - Changes your current directory
+
+
+dir                                                  - Displays the content in the current directory
+
+
+mkdir {Any Name Folder}                              - Creates a folder
+
+
+ren {Current folder name} {Changed Name}             - Renames a folder
+
+
+rmdir {Folder name}                                  - Deletes a folder
+
+
+type nul > {filename.extention}                      - Creates a file
+
+
+ren {Current file name.extention}                    - Renames a file
+{Changed Name.extention}       
+
+
+del {filename.extension}                             - Permanently deletes a file
+
+
+move {filename.txt} {foldername}                     - Moves a file
+
+
+pwd                                                  - Displays the current path
+
+
+ls                                                   - Displays the current directory and shows the last write time
+
+
+ni {filename.extension}                              - Creates a file
+
+
+Following steps are for getting the user details like password, user id, etc on the signed in Microsoft or local account in Microsoft Windows:-
+
+
+net user (user id)
+
+
+net user administrator
+
+
+net user administrator /random (user password)
+
+
+
+
+
+                                    
+                                                                    
+
+
+
+
+
+
